@@ -1,0 +1,39 @@
+@media screen and (max-width:1200px) {
+	.container {
+		width: 1170px;
+	}	
+}
+
+@media screen and (max-width:1170px) {
+	IMG{
+		max-width: 100%;
+	}	
+	.container {
+		width: auto;
+	}	
+	
+}
+
+@media screen and (max-width:1024px) {
+	
+}	
+
+@media screen and (max-width:992px) {
+	/* разрешение планшета */	
+	
+	
+}
+
+@media screen and (max-width:767px) {
+	/* разрешение планшета */
+
+
+	
+}	
+
+@media screen and (max-width:480px) {
+	/* разрешение смартфона */
+
+	
+	
+}
